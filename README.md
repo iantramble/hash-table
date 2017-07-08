@@ -1,6 +1,4 @@
 # hashTable
-Implementation of a dynamically resizable hash table in C.
 
-Refer to the following source for a more detailed description:
-
-http://tramby1.wix.com/itrambleportfolio#!implementing-a-hash-table/c1ecz
+- C implementation of a dynamically resizable hash table
+- Hash collisions stored in binary tree; number of buckets increased and elements redistributed upon request
